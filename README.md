@@ -20,6 +20,8 @@
 
 ## Downgrading
 
+**As you can see, i am using `QFIL` instead of `Msm8x39DownloadTool.exe` because it's not detecting my device.**
+
 1. Extract the `Stock ROM` and the `vibrateonly fix` and then start `QFIL` as an administrator.
 2. Connect your device(A37FW) in EDL mode(just [`adb reboot edl`](#edl) it) to your PC and it will show the Connected COM Port in `QFIL`.
     - If not showing up just click the `Select Existing Port` button and click the COM PORT showed in the textbox and click `OK`.
@@ -35,8 +37,6 @@
 11. In your `QFIL`, click `Load XML...` button and then load the `rawprogram0.xml`(NOT `rawprogram0_MSM_15399.xml`) and `patch0.xml`.
 12. click `Download` button and it will show a blue progress bar and scrolling text in the textbox it means the `QFIL` are currently flashing your device with patches and **do not disconnect your device**, you need to see in textbox the `Finished Download` or `Succeeded` something like that. Disconnect the cable if `Finished Download` or `Succeeded`. You will see and feel the vibration is gone and it fixed!
 13. Long press the power button(5-10 seconds) and then boom, downgraded successfully! 🥳
-
-> As you can see, i am using `QFIL` instead of `Msm8x39DownloadTool.exe` because it's not detecting my device.
 
 ## Rooting
 

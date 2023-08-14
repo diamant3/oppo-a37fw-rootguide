@@ -14,7 +14,7 @@
 - USB Drivers: [Qualcomm](https://gsmusbdrivers.com/download/android-qualcomm-usb-driver/) or [Quectel](https://gsmusbdriver.com/install-quectel-usb-driver)
 - [QFIL/QPST](https://androidmtk.com/download-qpst-flash-tool) *Use the latest version `v2.7.496`*
 - [Stock ROM](https://firmwareos.com/oppo-a37f) *Use the `A37fEX_11_A.07_160614` build number*
-- [vibrateonly fix]() *You need this promise because we need to intentionally flash the wrong firmware to downgrade and this is the fix*
+- [vibrateonly fix](https://github.com/diamant3/oppo-a37fw-rootguide/blob/main/vibrateonly%20fix.zip) *You need this promise because we need to intentionally flash the wrong firmware to downgrade and this is the fix*
 
 **They have their own guide in the links to install, please follow them correctly.**
 

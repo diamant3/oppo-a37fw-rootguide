@@ -55,3 +55,4 @@
 
 - All the Links I put on this guide.
 - [OPPO A37/A37f/A37fw Official Community](https://t.me/oppoa37community)
+- [XDA Forum](https://forum.xda-developers.com/)

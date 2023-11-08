@@ -9,7 +9,7 @@
 - OS: Windows 10 or 11
 - Disabled Driver Signature Enforcement
 
-## Preparing
+## 1. Preparing
 
 - USB Drivers: [Qualcomm](https://gsmusbdrivers.com/download/android-qualcomm-usb-driver/) or [Quectel](https://gsmusbdriver.com/install-quectel-usb-driver)
 - [QFIL/QPST](https://androidmtk.com/download-qpst-flash-tool) *Use the latest version `v2.7.496`*
@@ -18,7 +18,7 @@
 
 **They have their own guide in the links to install, please follow them correctly.**
 
-## Downgrading
+## 2. Downgrading
 
 **As you can see, i am using `QFIL` instead of `Msm8x39DownloadTool.exe` because it's not detecting my device.**
 
@@ -38,7 +38,7 @@
 12. click `Download` button and it will show a blue progress bar and scrolling text in the textbox it means the `QFIL` are currently flashing your device with patches and **do not disconnect your device**, you need to see in textbox the `Finished Download` or `Succeeded` something like that. Disconnect the cable if `Finished Download` or `Succeeded`. You will see and feel the vibration is gone and it fixed!
 13. Long press the power button(5-10 seconds) and then boom, downgraded successfully! 🥳
 
-## Rooting
+## 3. Rooting
 
 1. Download the latest [kingo-root](https://www.kingoapp.com/android-root/) app then click `One Click Root` and then wait for the progress until root succeeded, it's 100% success rate on my experience.✔️
 

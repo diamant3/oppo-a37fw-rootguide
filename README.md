@@ -51,6 +51,10 @@
     - If shows an `unauthorized`, check your device if needs to agree/accept or permit something like that to access your `USB Debugging`.
 2. Run `adb reboot edl` then your screen will show a black screen only it means EDL Mode!
 
+## Unlocking Bootloader
+Oppo a37fw bootloader is already unlocked when you follow this guide so you can modify your system
+as much as you want(flash twrp, custom roms, custom kernel and more). 
+
 ## Credits
 
 - All the Links I put on this guide.
